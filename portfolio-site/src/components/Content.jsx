@@ -4,7 +4,7 @@ import '../stylesheets/content.css';
 function Content() {
   return (
     <>
-        <div className='content'>
+        <div className="">
         </div>
     </>
   )

@@ -4,12 +4,12 @@ import '../stylesheets/header.css';
 const Header = () => {
   return (
     <>
-        <div className='top-bar'>
+        <div>
             <div>
                 <h3>Sujith</h3>
             </div>
             <div>
-                <ul className='links'>
+                <ul className="flex items-center">
                     <li><a href="#">About</a></li>
                     <li><a href="#">Projects</a></li>
                     <li><a href="#">Resume</a></li>
